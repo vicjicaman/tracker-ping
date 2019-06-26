@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@nebulario/tracker-process@1.70.0-master":
-  version "1.70.0-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.0-master.tgz#5daa596e0d28001a4551a11ffebb2a4030b28776"
-  integrity sha512-7+0ybAo7DHjSRcmUIyyZQSmRKtzu4YB649VzEwk2z0GmP+7vbo7TZ3x9o05M6StCGCMncVXp8fpq5ceSliUwkA==
+"@nebulario/tracker-process@1.70.0-release-public-lib-prod":
+  version "1.70.0-release-public-lib-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.0-release-public-lib-prod.tgz#6faa5c7d5a5e3cc089e43199b2a9c1bf4f3de55d"
+  integrity sha512-FoO82WV8EB2ievzU74MH0iUDBN4PCE/DR8hYrsjCZMn7fCaaPRWle1c6zQbrRD7hNEy4J08x2O470xUkggx+Tg==
   dependencies:
     babel-runtime "^6.26.0"
     bluebird "^3.5.1"
