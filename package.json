@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-ping",
-  "version": "1.70.0-release-public-pkg-prod",
+  "version": "1.70.3-master",
   "description": "ping utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-ping.git",
@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "@nebulario/tracker-process": "1.70.0-release-public-pkg-prod",
+    "@nebulario/tracker-process": "1.70.3-master",
     "uuid": "^3.3.2",
     "lodash": "^4.17.4"
   },
